@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="dark_purple">#696CFF</color>
+    <color name="opacity_purple">#E1E2FF</color>
+    <color name="opacity_boarder">#ABBBCB</color>
+    <color name="navy_blue">#2A6296</color>
+    <color name="purple_gradient">#24269A</color>
+    <color name="nav_header_bg_color">#5F62F5</color>
+    <color name="list_item_boarder">#E8E8E8</color>
+    <color name="add_dialog_bg">#F3F3F3</color>
+    <color name="add_dialog_edit_boarder">#4D2A6296</color>
+    <color name="dark_red">#FF0000</color>
+    <color name="base_changed_background">#A7A7F5</color>
+    <color name="header_rect_color">#E9F8F9</color>
+</resources>
